@@ -243,9 +243,9 @@ nav ul li.selected a {
 
 
 p.slogan {
-	font-size: 5rem;
+	font-size: 4rem;
 	font-family: copperplate, papyrus, fantasy;
-	margin: 1.5em 0.5em 2em;
+	margin: 1.5em 0.5em 3em;
 	position: relative;
 	color: rgb(250,250,250);
 }
